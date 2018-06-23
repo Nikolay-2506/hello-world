@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+
+Hi Nikolay
+Good job
